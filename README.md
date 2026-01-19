@@ -1,4 +1,4 @@
-### Merhaba, ben Muhammet Aslan! 👋
+### Merhaba, Ben Muhammet Aslan! 👋
 
 🎓 **Yazılım Mühendisliği Öğrencisiyim**
 
@@ -25,9 +25,9 @@ Teknolojiye ve problem çözmeye tutkulu bir mühendis adayıyım. Şu anda mobi
 ### 📈 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical&locale=tr" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devmuhammetaslan&show_icons=true&theme=radical&locale=tr" alt="GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_GITHUB_KULLANICI_ADIN&layout=compact&theme=radical&locale=tr" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmuhammetaslan&layout=compact&theme=radical&locale=tr" alt="Top Languages" width="48%" />
 </p>
 
 ---
